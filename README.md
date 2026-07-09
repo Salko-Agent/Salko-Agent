@@ -1,4 +1,4 @@
-# Hi there! I'm Salih Batanovic 👋
+# Hi there! I'm Salih  👋
 
 Full-Stack Developer, System Architect, and Founder of **[BMS Digital Solutions](https://bmsdigitalsolutions.com)** in Vienna, Austria.
 
