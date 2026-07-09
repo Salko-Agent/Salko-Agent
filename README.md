@@ -22,13 +22,25 @@ I specialize in **High-Performance Web Development**, **Sales Funnel Automation*
 An immersive, high-end 3D WebGL landing page built using Next.js, React Three Fiber, Zustand, and GSAP. It features physical-based glass refraction materials and cinematic camera transition paths optimized for 60+ FPS on both mobile and desktop.
 *   **Tech Stack:** Next.js, Three.js, React Three Fiber, Zustand, GSAP, Tailwind CSS
 
-### 🏋️‍♂️ [SmartFit CMS & Flat-File Ecosystem](https://github.com/Salko-Agent/smartfit-website)
+### 🏋️‍♂️ [FlexFit CMS & Flat-File Ecosystem](https://github.com/Salko-Agent/tfit-website)
 A database-less (flat-file) PHP & JSON content engine built to replace a resource-heavy WordPress Elementor site for a premium training studio. Includes a custom browser-based editor (`bms-hub`) and atomic file-writing webhooks for seamless Zentra CMS sync.
 *   **Tech Stack:** PHP 8.x, Python, JSON database, Tailwind CSS
 
-### 🔍 Zentra Static Affiliate Engine & CMS Suite
-A high-performance static affiliate portal. Offline TypeScript parser that normalizes and aggregates CSV data feeds with over 142k products, generating 2,300+ paginated, SEO-optimized static category/product pages containing structural schema.org micro-data.
-*   **Tech Stack:** TypeScript, Node.js, SQLite, Apache Web Server
+### 📊 [FlexOS Desktop Dashboard Suite](https://github.com/Salko-Agent/bms-dashboard)
+A local-first, privacy-focused desktop analytics app built with Tauri v2 and Rust. Features automatic industry onboarding templates, data ingestion via local CSVs or Google Sheets URLs with zero OAuth, and DPAPI AES-256 field-level encryption.
+*   **Tech Stack:** Next.js, Tauri v2, Rust, SQLite, Tremor, Tailwind CSS, Playwright (E2E)
+
+### 🛒 [Zentra Static Affiliate Engine](https://github.com/Salko-Agent/zentra-static-engine)
+A compiler-based static site generator (SSG) in Node.js that parses massive product feeds (140k+ entries) using a memory-efficient custom streaming line parser, compiling them into 2,300+ paginated category and product pages with automated JSON-LD schema metadata.
+*   **Tech Stack:** Node.js, SQLite, Vanilla HTML5/CSS3/ES6+, Python
+
+### 🖥️ [Zentra CMS Custom Portal](https://github.com/Salko-Agent/zentra-cms-portal)
+A bespoke, lightweight PHP content management and SEO dashboard designed for hand-coded websites. Features native Google PageSpeed and Search Console API integrations, dynamic custom section forms, and robust security validations (CSRF, SQL-injection prevention).
+*   **Tech Stack:** PHP 8.x, MySQL, Google PageSpeed API, Google Search Console API, Vanilla CSS/JS
+
+### 🤖 [BMS AutoTrader Quant Engine](https://github.com/Salko-Agent/bms-autotrader)
+A modular, high-frequency simulation and backtesting framework in Python. Implements FVG (Fair Value Gap) and S/R breakout strategies, event-loop price streaming simulation, multi-tiered Pydantic risk limits, and local LLM trade confirmation.
+*   **Tech Stack:** Python 3.10+, Asyncio, Pandas, Numpy, Pydantic, PyYAML, Websockets
 
 ---
 
